@@ -4,4 +4,4 @@ CYP3A4 is the predominant drug metabolizing enzyme in the liver, displaying larg
 CYP3A4 transcription is controlled by hepatic transcription factors (TFs), but how TFs dynamically interact remains uncertain.  
 We hypothesize that several TFs form a regulatory network with nonlinear, dynamic, and hierarchical interactions.  
 
-In this study, we applied a computational approach for estimating Sobol’s Sensitivity Indices (SSI) under generalized linear models, to existing liver RNA expression microarray data (GSE9588) and RNAseq data from GTEx, generating robust importance ranking of TF effects and interactions. 
+In this study, we applied Sobol’s Sensitivity Indices (SSI) to existing liver RNA expression microarray data (GSE9588) and RNAseq data from GTEx, generating robust importance ranking of TF effects and interactions. 
